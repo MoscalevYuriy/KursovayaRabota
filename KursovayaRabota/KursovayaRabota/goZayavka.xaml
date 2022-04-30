@@ -1,0 +1,45 @@
+﻿<Window x:Class="KursovayaRabota.goZayavka"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KursovayaRabota"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Окно гостя" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFFF4BA7"/>
+                <GradientStop Color="#FF56CCFF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border MinWidth="400" Margin="15" Background="White" VerticalAlignment="Center" Padding="30" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" Color="LightGray" ShadowDepth="0" />
+            </Border.Effect>
+            <StackPanel Margin="0,0,0,0">
+                <Grid>
+                    <Button x:Name="buttonAdminOlimpBack" Content="Назад" Margin="0,20,414,20" Background="#FF01B905" BorderBrush="#FF01B905" Foreground="White" FontFamily="Comic Sans MS" Click="buttonAdminOlimpBack_Click"/>
+                </Grid>
+                <DataGrid x:Name="dataGridOlimpiad" Height="194" AutoGenerateColumns="False" Loaded="dataGridOlimpiad_Loaded" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding ID}" Width="50"/>
+                        <DataGridTextColumn Header="Название" Binding="{Binding Название}" Width="*"/>
+                        <DataGridTextColumn Header="Компетенция" Binding="{Binding Компетенция}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Grid>
+                    <Button x:Name="buttongozayavka" Content="Подать заявку" Margin="0,20,0,0" Background="#FF01B905" BorderBrush="#FF01B905" Foreground="White" FontFamily="Comic Sans MS" VerticalAlignment="Top" Click="buttongozayavka_Click"/>
+                </Grid>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

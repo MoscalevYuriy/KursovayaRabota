@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KursovayaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Заявки">
+    <Key>
+      <PropertyRef Name="ID_заявки" />
+    </Key>
+    <Property Name="ID_заявки" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ФИО_участника" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_олимпиады" Type="Int32" Nullable="false" />
+    <Property Name="Электронная_почта" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Номер_телефона" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Информация_об_олимпиадах">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Название" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Компетенция" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Информация_об_участниках">
+    <Key>
+      <PropertyRef Name="ID_участника" />
+    </Key>
+    <Property Name="ID_участника" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ФИО" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_Олимпиады" Type="Int32" Nullable="false" />
+    <Property Name="Электронная_почта" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Номер_телефона" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Результаты_участников">
+    <Key>
+      <PropertyRef Name="ID_участника" />
+    </Key>
+    <Property Name="ID_участника" Type="Int32" Nullable="false" />
+    <Property Name="ФИО_участника" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_Олимпиады" Type="Int32" Nullable="false" />
+    <Property Name="Количество_баллов" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="KursovayaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Заявки" EntityType="Self.Заявки" />
+    <EntitySet Name="Информация_об_олимпиадах" EntityType="Self.Информация_об_олимпиадах" />
+    <EntitySet Name="Информация_об_участниках" EntityType="Self.Информация_об_участниках" />
+    <EntitySet Name="Результаты_участников" EntityType="Self.Результаты_участников" />
+  </EntityContainer>
+</Schema>

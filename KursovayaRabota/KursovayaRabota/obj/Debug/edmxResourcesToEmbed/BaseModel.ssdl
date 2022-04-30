@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище KursovayaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Kursovaya.dbo.Авторизация" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Авторизация">
+          <Property Name="логин" Type="nvarchar" MaxLength="50" />
+          <Property Name="пароль" Type="nvarchar" MaxLength="50" />
+        </EntityType>-->
+  <EntityType Name="Заявки">
+    <Key>
+      <PropertyRef Name="ID заявки" />
+    </Key>
+    <Property Name="ID заявки" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ФИО участника" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID олимпиады" Type="int" Nullable="false" />
+    <Property Name="Электронная почта" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Номер телефона" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Информация об олимпиадах">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Название" Type="nvarchar" MaxLength="50" />
+    <Property Name="Компетенция" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Информация об участниках">
+    <Key>
+      <PropertyRef Name="ID участника" />
+    </Key>
+    <Property Name="ID участника" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ФИО" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID Олимпиады" Type="int" Nullable="false" />
+    <Property Name="Электронная почта" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Номер телефона" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Результаты участников">
+    <Key>
+      <PropertyRef Name="ID участника" />
+    </Key>
+    <Property Name="ID участника" Type="int" Nullable="false" />
+    <Property Name="ФИО участника" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID Олимпиады" Type="int" Nullable="false" />
+    <Property Name="Количество баллов" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Хранилище KursovayaModelContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Заявки" EntityType="Self.Заявки" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Информация об олимпиадах" EntityType="Self.Информация об олимпиадах" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Информация об участниках" EntityType="Self.Информация об участниках" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Результаты участников" EntityType="Self.Результаты участников" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

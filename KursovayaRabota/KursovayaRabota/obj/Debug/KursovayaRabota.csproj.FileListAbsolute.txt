@@ -1,0 +1,172 @@
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe.config
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.pdb
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.dll
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\App.g.cs
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.cache
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.lref
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.baml
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.g.resources
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.Properties.Resources.resources
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CopyComplete
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.exe
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.pdb
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\App.baml
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.g.cs
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.baml
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.g.cs
+C:\Users\Сергей\source\repos\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe.config
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.pdb
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.dll
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.pdb
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.AssemblyReference.cache
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.g.cs
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.g.cs
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminUchastniki.g.cs
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.g.cs
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\App.g.cs
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.cache
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.lref
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\App.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminUchastniki.baml
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.g.resources
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.Properties.Resources.resources
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.GenerateResource.cache
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CoreCompileInputs.cache
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CopyComplete
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.exe
+D:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.pdb
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe.config
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.exe
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\KursovayaRabota.pdb
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.dll
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignColors.pdb
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csprojAssemblyReference.cache
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.g.cs
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.g.cs
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminUchastniki.g.cs
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.g.cs
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\App.g.cs
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.cache
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.lref
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\App.baml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\Admin.baml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminOlimp.baml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\AdminUchastniki.baml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\MainWindow.baml
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.g.resources
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.Properties.Resources.resources
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.GenerateResource.cache
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CoreCompileInputs.cache
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CopyComplete
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.exe
+F:\Курсовая работа\KursovayaRabota\KursovayaRabota\obj\Debug\KursovayaRabota.pdb
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.exe.config
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.exe
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.pdb
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.dll
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.SqlServer.dll
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignColors.dll
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.xml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.SqlServer.xml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignColors.pdb
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csprojAssemblyReference.cache
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\Admin.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminOlimp.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminUchastniki.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\MainWindow.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\App.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_Content.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.cache
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.lref
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\App.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\Admin.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminOlimp.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminUchastniki.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\MainWindow.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.g.resources
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.Properties.Resources.resources
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.GenerateResource.cache
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CoreCompileInputs.cache
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CopyComplete
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.exe
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.pdb
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addOlimpiad.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addOlimpiad.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\goZayavka.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikMenu.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\goZayavka.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikMenu.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addZayavka.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addZayavka.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikiInfo.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikiInfo.baml
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminResult.g.cs
+F:\Курсовая работа\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminResult.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.exe.config
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.exe
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\KursovayaRabota.pdb
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignColors.dll
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addOlimpiad.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addZayavka.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\Admin.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminOlimp.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminResult.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminUchastniki.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\goZayavka.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikiInfo.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikMenu.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_Content.g.cs
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.cache
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota_MarkupCompile.lref
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\App.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addOlimpiad.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\addZayavka.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\Admin.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminOlimp.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminResult.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\AdminUchastniki.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\goZayavka.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikiInfo.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\UchastnikMenu.baml
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.g.resources
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.Properties.Resources.resources
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.csproj.CopyComplete
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.exe
+C:\Users\Сергей\Desktop\KursovayaRabota — копия\KursovayaRabota\obj\Debug\KursovayaRabota.pdb
